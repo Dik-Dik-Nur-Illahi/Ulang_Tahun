@@ -1,0 +1,15 @@
+video {
+    height: 500px;
+}
+
+section {
+    min-height: 220px;
+}
+
+.about {
+    margin-top: 25px;
+}
+
+.contact1 {
+    margin-left: 470px;
+}
